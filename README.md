@@ -1,6 +1,6 @@
 # Unoverse
 
-An interactive web application designed to help learn various aspects of Arduino programming and electronics. Unoverse provides a comprehensive learning platform with hands-on tutorials, interactive code examples, and project-based learning to master Arduino development from basics to advanced concepts.
+An interactive web application designed to help learn various aspects of Arduino programming and electronics. Unoverse provides a comprehensive learning platform with hands-on tutorials, interactive code examples, and game-based learning to master Arduino development from basics to advanced concepts.
 
 ## Features
 
